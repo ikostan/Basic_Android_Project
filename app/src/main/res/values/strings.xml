@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Week 3: Tuition</string>
+    <string name="txt_header">My College</string>
+    <string name="btn_compute_cost">COMPUTE COST</string>
+    <string name="cost_per_credit">Cost Per Credit</string>
+    <string name="number_of_credits">Number Of Credits</string>
+    <string name="txt_sum">Total:</string>
+    <string name="txt_totalCost">Total Cost:</string>
+    <string name="txt_term">Selected term:</string>
+    <string name="txt_term_cost">Term cost:</string>
+    <string name="txt_credits">Credits:</string>
+    <string-array name="semester_list">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Winter</item>
+    </string-array>
+</resources>
